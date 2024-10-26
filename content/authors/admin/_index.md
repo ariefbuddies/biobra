@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Juragan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Arif Budi Setyawan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Arif
+last_name: Setyawan
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Artificial 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bra Universe
+    url: https://www.hell.com
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,6 +46,6 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
+Arif is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

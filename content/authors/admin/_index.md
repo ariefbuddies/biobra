@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juragan
+title: Brafie
 
 # Name pronunciation (optional)
 name_pronunciation: Arif Budi Setyawan
@@ -21,7 +21,7 @@ role: Professor of Artificial
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bra Universe
+  - name: MultiUniverse
     url: https://www.hell.com
 
 # Social Networking
